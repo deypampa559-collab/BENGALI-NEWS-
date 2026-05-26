@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Khobor",
+  "description": "Premium Bengali news app featuring handpicked daily stories and perfect visual images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
